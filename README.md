@@ -27,4 +27,4 @@
 Este projeto foi inspirado e criado a partir de aulas de html e css.
 
 - ♥ [Rocketseat](https://app.rocketseat.com.br/devlinks)
-- ♥ [Mayk Brito](@maykbrito) 
+- ♥ [Mayk Brito](`@maykbrito`) 
